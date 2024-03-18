@@ -101,6 +101,8 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
+LOCALE_PATH = [BASE_DIR / 'locale']
+
 
 # Internationalization
 # https://docs.djangoproject.com/en/5.0/topics/i18n/
