@@ -109,7 +109,10 @@ LOCALE_PATHS = [BASE_DIR / 'locale']
 # Internationalization
 # https://docs.djangoproject.com/en/5.0/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+# LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'ko-kr'
+# LANGUAGE_CODE = 'de'
+
 
 TIME_ZONE = 'America/Chicago'
 
@@ -120,6 +123,7 @@ USE_TZ = True
 LANGUAGES = (
     ('ko', _("한국어")),
     ('en', _("영어")),
+    ('de', _("독일어")),
 )
 
 
