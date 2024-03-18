@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-18 03:34-0500\n"
+"POT-Creation-Date: 2024-03-18 03:42-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,12 +18,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
-#: config/settings.py:121
+#: config/settings.py:123
 msgid "한국어"
 msgstr ""
 
-#: config/settings.py:122
+#: config/settings.py:124
 msgid "영어"
+msgstr ""
+
+#: config/settings.py:125
+msgid "일본어"
 msgstr ""
 
 #: product/models.py:10
