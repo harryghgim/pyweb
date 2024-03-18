@@ -103,7 +103,7 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-LOCALE_PATH = [BASE_DIR / 'locale']
+LOCALE_PATHS = [BASE_DIR / 'locale']
 
 
 # Internationalization
