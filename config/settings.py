@@ -115,7 +115,7 @@ LANGUAGE_CODE = 'ko-kr'
 # LANGUAGE_CODE = 'de'
 
 
-TIME_ZONE = 'America/Chicago'
+TIME_ZONE = 'Asia/Seoul'
 
 USE_I18N = True
 
